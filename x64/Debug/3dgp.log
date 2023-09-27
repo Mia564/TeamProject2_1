@@ -1,0 +1,4 @@
+﻿  framework.cpp
+C:\Users\2220262\Desktop\チーム制作用描画エンジン\x3dgp.00\framework.cpp(325,56): warning C4244: '引数': 'float' から 'ImGuiInputTextFlags' への変換です。データが失われる可能性があります。
+C:\Users\2220262\Desktop\チーム制作用描画エンジン\x3dgp.00\framework.cpp(325,48): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  3dgp.vcxproj -> C:\Users\2220262\Desktop\チーム制作用描画エンジン\x3dgp.00\x64\Debug\3dgp.exe
